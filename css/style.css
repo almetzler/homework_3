@@ -89,8 +89,8 @@ tr:hover{
 
 }
 
-input:focus{
-  border: 3pX;
+:focus{
+  border: 3px;
   border-style: dashed;
   border-color: #417243;
 }
